@@ -2,14 +2,12 @@
 
 <div>
     <a href="https://www.instagram.com/rivermike316/" rel="nofollow">
-        <img src="https://github.com/user-attachments/assets/2f1b98ec-958b-42d9-aea6-add5d9fc91d3)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CIS-A2K_Instagram_Icon_%28Black%29.svg/2048px-CIS-A2K_Instagram_Icon_%28Black%29.svg.png"
-        height="100" alt="Instagram">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CIS-A2K_Instagram_Icon_%28Black%29.svg/2048px-CIS-A2K_Instagram_Icon_%28Black%29.svg.png" height="100" alt="Instagram">
     </a>
 </div>
 
 <div>
     <a href="https://www.twitch.tv/rivermike16">
-        <img src="[![twitch-logo-outline-white-icon-app-vector-56479036](https://github.com/user-attachments/assets/99f03ace-1396-471f-a5c1-44b28c3a418e)](https://cdn.vectorstock.com/i/500p/90/36/twitch-logo-outline-white-icon-app-vector-56479036.jpg)"
-        height="100" alt="Twitch">
+        <img src="https://cdn.vectorstock.com/i/500p/90/36/twitch-logo-outline-white-icon-app-vector-56479036.jpg" height="100" alt="Twitch">
     </a>
 </div>
