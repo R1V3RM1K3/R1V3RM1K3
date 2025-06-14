@@ -6,6 +6,6 @@
 </div>
 
 <div>
-    <a href="https://www.twitch.tv/rivermike16" rel="nofollow"> <img src=![twitch-logo-outline-white-icon-app-vector-56479036](https://github.com/user-attachments/assets/612d0201-a6c2-4141-986e-cb39d02b6cf8)
-    height=100;
+    <a href="https://www.twitch.tv/rivermike16"> <img src=![twitch-logo-outline-white-icon-app-vector-56479036](https://github.com/user-attachments/assets/612d0201-a6c2-4141-986e-cb39d02b6cf8)
+    height=100;>
 </div>
