@@ -8,6 +8,6 @@
 
 <div>
     <a href="https://www.twitch.tv/rivermike16">
-        <img style="border-radius: 50%;" src="https://cdn.vectorstock.com/i/500p/90/36/twitch-logo-outline-white-icon-app-vector-56479036.jpg" height="100" alt="Twitch">
+        <img src="https://cdn.vectorstock.com/i/500p/90/36/twitch-logo-outline-white-icon-app-vector-56479036.jpg" height="100"; border-radius: 50%; alt="Twitch">
     </a>
 </div>
