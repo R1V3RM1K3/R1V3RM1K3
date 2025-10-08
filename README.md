@@ -1,5 +1,12 @@
 # Hello World, I'm Mike, be very welcome!
 
+<style>
+    .twitch {
+        border-radius: 50%;
+    }
+    
+</style>
+
 <div>
     <a href="https://www.instagram.com/rivermike316/" rel="nofollow">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CIS-A2K_Instagram_Icon_%28Black%29.svg/2048px-CIS-A2K_Instagram_Icon_%28Black%29.svg.png" height="100" alt="Instagram">
